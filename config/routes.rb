@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :activity_tags
   resources :tags
   resources :activities
   resources :users
