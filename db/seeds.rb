@@ -1,5 +1,6 @@
 Activity.destroy_all
 Tag.destroy_all
+ActivityTag.destroy_all
 User.destroy_all
 
 # Users
